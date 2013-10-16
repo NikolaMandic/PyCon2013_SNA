@@ -6,13 +6,6 @@ import networkx as net
 import matplotlib.pyplot as plt
 # Go to http://dev.twitter.com and create an app.
 # The consumer key and secret will be generated for you after
-APP_KEY=consumer_key="FbqYiW4hNBuwM2g1qgBQ"
-APP_SECRET=consumer_secret="wvrWikG0o0bpgxrI6cY4Q5attfBYHavMZqWTRhUEKE"
-
-# After the step above, you will be redirected to your app's page.
-# Create an access token under the the "Your access token" section
-OAUTH_TOKEN=access_token="1526722333-h2p02pfiEHJTS5KAMAvsjhjDARcefQr818u5nV8"
-OAUTH_TOKEN_SECRET=access_token_secret="SUXVMsOVG0OvSxCO6AehDzEpCx0DfrHwDRXOTArpU"
 
 
 retweets=net.DiGraph()
