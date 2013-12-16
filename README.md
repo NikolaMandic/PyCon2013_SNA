@@ -30,3 +30,7 @@ Run ipython notebook w/ inline graphs
 $ ipython notebook --pylab inline
 
 For more info: http://ipython.org/ipython-doc/dev/interactive/htmlnotebook.html
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/NikolaMandic/pycon2013_sna/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
